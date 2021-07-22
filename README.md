@@ -40,3 +40,4 @@ gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-casper-v2
 
 This starter is based on [Ghost Casper V2](https://github.com/TryGhost/Casper/tree/2.4).
 "# 6110110193_240-420_Gridsome" 
+"# 6110110193_240-420_Gridsome" 
